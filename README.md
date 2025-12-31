@@ -1,4 +1,4 @@
-# 🚀 SR HACKER — Team Lead | Full Stack Developer
+# 🚀 SR HACKER — Team Lead | Full Stack Developer & Coder
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=220&section=header&text=SR%20HACKER&fontSize=65&fontColor=ffffff&animation=twinkling&desc=Team%20Lead%20%7C%20Full%20Stack%20Developer&descSize=28&descAlignY=65" width="100%" />
@@ -50,7 +50,7 @@
 ## ⭐ About Me
 
 - 💼 Team Lead & Full Stack Developer  
-- 🔭 Currently exploring **MERN Stack & DevOps**  
+- 🔭 Currently exploring **MERN Stack & DSA**  
 - 🌱 Learning **Cloud & System Design**  
 - 🚀 Goal: **Build Clean & Scalable Products**  
 
