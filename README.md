@@ -1,54 +1,77 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+SR+HACKER;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,00F7FF&height=200&section=header&text=SR%20HACKER&fontSize=60&fontColor=ffffff&desc=Premjeet%20%7C%20Team%20Lead%20%7C%20Full%20Stack%20Dev&descAlign=50&descAlignY=60" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=30&fontColor=ffffff&fontAlignY=40" width="100%"/>
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/premjeet.">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/premjeet1918">
+      <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:premjeetrajbhar2@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/_srhacker_">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://bsky.app/profile/premjeet1918"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky"/></a>
-  <a href="https://instagram.com/_srhacker_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/premjeet."><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:premjeetrajbhar2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Advanced MERN Stack & Cloud Computing**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, PHP, and Web Technologies**
-- ⚡ Fun fact: **I code until I hit a compile error, then I code some more.**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 👨‍💼 Professional Summary
+
+I am a **Diploma in Engineering Student** and a passionate Full Stack Developer. I currently serve as the **Team Leader** for a development group of 8 members, where we build web solutions and engineering tools.
+
+- 🎓 **Education:** Pursuing Diploma in Engineering (Polytechnic).
+- 💼 **Experience:** Leading a team of **8 Developers** ("Study Group").
+- 💡 **Focus:** Web Development (MERN, PHP), Civil Engineering Tech, and Open Source.
+- 🚀 **Goal:** Preparing for CUET 2026 & building scalable web apps.
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **StudyGroupsHub** | A resource platform providing solved papers & notes for Civil Engineering diploma students. | `HTML` `CSS` `JS` |
+| **Job Portal** | A dynamic job listing platform connecting users with opportunities. | `PHP` `MySQL` `Bootstrap` |
+| **Freelance Agency** | Official portfolio website for my 8-person developer team. | `React` `Node.js` |
+| **Civil Reports** | Created technical reports on Ring Road Construction & 3BHK Residential Buildings. | `AutoCAD` `Documentation` |
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-**Languages & Scripting**<br/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+| **Core** | **Frontend** | **Backend & DB** | **Tools** |
+| :---: | :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+| | ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) |
 
-**Frontend Development**<br/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
 
-**Backend, Cloud & Database**<br/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+---
 
-**Design & Tools**<br/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premjeet1918&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premjeet1918&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premjeet1918&theme=react-dark" width="100%"/>
+</div>
+
+---
+<p align="center">
+  <i>Let's code, create, and conquer! 🚀</i><br>
+  <img src="https://visitcount.itsvg.in/api?id=premjeet1918&icon=5&color=2" alt="Visitor Count" />
+</p>
