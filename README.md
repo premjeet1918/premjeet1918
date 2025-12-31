@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,00F7FF&height=200&section=header&text=SR%20HACKER&fontSize=60&fontColor=ffffff&desc=Premjeet%20%7C%20Team%20Lead%20%7C%20Full%20Stack%20Dev&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,00F7FF&height=200&section=header&text=SR%20HACKER&fontSize=60&fontColor=ffffff&desc=Team%20Lead%20%7C%20Full%20Stack%20Dev&descAlign=50&descAlignY=60" width="100%"/>
 
   <p align="center">
     <a href="https://linkedin.com/in/premjeet.">
@@ -18,28 +18,6 @@
   </p>
 
 </div>
-
----
-
-### 👨‍💼 Professional Summary
-
-I am a **Diploma in Engineering Student** and a passionate Full Stack Developer. I currently serve as the **Team Leader** for a development group of 8 members, where we build web solutions and engineering tools.
-
-- 🎓 **Education:** Pursuing Diploma in Engineering (Polytechnic).
-- 💼 **Experience:** Leading a team of **8 Developers** ("Study Group").
-- 💡 **Focus:** Web Development (MERN, PHP), Civil Engineering Tech, and Open Source.
-- 🚀 **Goal:** Preparing for CUET 2026 & building scalable web apps.
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **StudyGroupsHub** | A resource platform providing solved papers & notes for Civil Engineering diploma students. | `HTML` `CSS` `JS` |
-| **Job Portal** | A dynamic job listing platform connecting users with opportunities. | `PHP` `MySQL` `Bootstrap` |
-| **Freelance Agency** | Official portfolio website for my 8-person developer team. | `React` `Node.js` |
-| **Civil Reports** | Created technical reports on Ring Road Construction & 3BHK Residential Buildings. | `AutoCAD` `Documentation` |
 
 ---
 
@@ -72,6 +50,5 @@ I am a **Diploma in Engineering Student** and a passionate Full Stack Developer.
 
 ---
 <p align="center">
-  <i>Let's code, create, and conquer! 🚀</i><br>
   <img src="https://visitcount.itsvg.in/api?id=premjeet1918&icon=5&color=2" alt="Visitor Count" />
 </p>
