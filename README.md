@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,00F7FF&height=200&section=header&text=SR%20HACKER&fontSize=60&fontColor=ffffff&desc=Team%20Lead%20%7C%20Full%20Stack%20Dev&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF41&strokeWidth=2&height=220&section=header&text=SR%20HACKER&fontSize=70&fontColor=00FF41&fontAlignY=35&desc=Team%20Lead%20%7C%20Full%20Stack%20Dev&descFontSize=25&descAlignY=80&descAlign=50&animation=fadeIn" width="100%"/>
 
   <p align="center">
     <a href="https://linkedin.com/in/premjeet.">
@@ -39,8 +39,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premjeet1918&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premjeet1918&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=premjeet1918&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premjeet1918&theme=react&hide_border=true&layout=compact&title_color=00FF41&text_color=ffffff&bg_color=0d1117" height="180" />
 </div>
 
 <div align="center">
